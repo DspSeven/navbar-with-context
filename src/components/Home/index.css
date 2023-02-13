@@ -1,0 +1,10 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.dark {
+  color: #ffffff;
+  background-color: #000000;
+}
+.light {
+  color: #000000;
+  background-color: #ffffff;
+}
